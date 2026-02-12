@@ -59,6 +59,8 @@ Example:
 ```
 /public/.well-known/farcaster.json
 ```
+- My project name : 
+  My url link : 
 
 Paste:
 ```
