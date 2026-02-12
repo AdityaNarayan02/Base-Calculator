@@ -104,7 +104,9 @@ with your deployed URL.
 - Inside /public add:
 
 • icon.png → 300×300
+
 • splash.png → 200×200
+
 • screenshot.png → 1284×2778
 
 - You can:
