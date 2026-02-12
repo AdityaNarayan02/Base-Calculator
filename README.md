@@ -3,7 +3,9 @@
 ## 🚀 How to Build & Launch Your Base Mini App (Using v0)
 
 Investment: $0
+
 Experience Required: None
+
 Time Required: ~10 Minutes
 
 🛠 Required Accounts & Tools
