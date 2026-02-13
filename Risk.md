@@ -30,7 +30,7 @@
 Create accounts:
 
 - v0
-`https://v0.app`
+`https://v0.app/ref/R27EJH`
 
 - Farcaster
 `https://farcaster.xyz`
