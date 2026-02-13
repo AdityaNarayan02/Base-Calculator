@@ -11,7 +11,7 @@ Time Required: ~10 Minutes
 🛠 Required Accounts & Tools
 
 - Create a v0 account
-`https://v0.app/ref/ND8O3H`
+`https://v0.app/ref/R27EJH`
 
 - Create a Farcaster account
 `https://farcaster.xyz/~/code/9M3GEU`
