@@ -36,7 +36,7 @@ Create accounts:
 `https://farcaster.xyz/~/code/2A298U`
 
 - Base App
-`https://base.app`
+`https://base.app/invite/friends/HJRWZTSG`
 
 ⚠ Important: Connect your Farcaster account inside the Base App.
 
