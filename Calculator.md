@@ -17,7 +17,7 @@ Time Required: ~10 Minutes
 `https://farcaster.xyz/~/code/2A298U`
 
 - Create a Base App account
-`https://base.app/invite/ethicalearn/HBB3DT78`
+  `https://base.app/invite/friends/HJRWZTSG`
 
 ⚠ Important: Connect your Farcaster account inside the Base App.
 
