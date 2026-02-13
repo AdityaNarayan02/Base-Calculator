@@ -131,11 +131,11 @@ Save it — you will reuse it multiple times.
 
 ### ✅ STEP 3 — Create the Farcaster Manifest File
 
+- Before Pasteing this, paste your `Project name` & `Project URL`
+  
 Inside your project, create:
 
 ```/public/.well-known/farcaster.json```
-
-- Before Pasteing this, paste your `Project name` & `Project URL`
 
 Paste:
 ```
