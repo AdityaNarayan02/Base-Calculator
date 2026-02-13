@@ -33,7 +33,7 @@ Create accounts:
 `https://v0.app/ref/R27EJH`
 
 - Farcaster
-`https://farcaster.xyz`
+`https://farcaster.xyz/~/code/2A298U`
 
 - Base App
 `https://base.app`
